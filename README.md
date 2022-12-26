@@ -3,21 +3,4 @@ massa.github.com
 
 Home Page
 
-
-Hi
-==
-
-Hi
---
-
-test
-
-test
-
-test:
-
-` oi`  
-` oi`  
-` oi`
-
-test
+Assorted collection of links, redirects to my dev.to page.
