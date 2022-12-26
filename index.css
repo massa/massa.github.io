@@ -8,11 +8,11 @@ body {
 }
 
 blockquote {
-	font-family:Georgia, "DejaVu Serif", "Bitstream Vera Serif", Times, "Times New Roman", serif;
+	font-family: Georgia, "DejaVu Serif", "Bitstream Vera Serif", Times, "Times New Roman", serif;
 }
 
 header h1, header .logo, header .statement {
-	font-family:Rosie, "Helvetica Neue Light", "Helvetica Neue", "DejaVu Sans", "Bitstream Vera Sans", Helvetica, Arial, sans-serif;
+	font-family: Rosie, "Helvetica Neue Light", "Helvetica Neue", "DejaVu Sans", "Bitstream Vera Sans", Helvetica, Arial, sans-serif;
 	font-size:48pt;
 }
 
@@ -35,10 +35,13 @@ footer {
 }
 
 a {
-        text-decoration: none; display: block;
+  text-decoration: none;
+  display: block;
+  padding: 0.2em 1em;
+  font-size: 12pt;
 }
 
 a:hover {
-        background-color: #DDDDFF;
+  background-color: #DDDDFF;
 }
 
