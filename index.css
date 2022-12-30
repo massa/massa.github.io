@@ -5,6 +5,8 @@ body {
   top: 50%;
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
+  background-color: #2e3440;
+  color: #a3be8c;
 }
 
 blockquote {
@@ -21,7 +23,6 @@ nav {
 }
 
 header .logo {
-  color: #c0d0c0;
   width: 100%;
   height: 100%;
   position: absolute;
@@ -39,8 +40,9 @@ a {
   display: block;
   padding: 0.2em 1em;
   font-size: 12pt;
+  color: #c8d0e0;
 }
 
 a:hover {
-  background-color: #ddddff;
+  background-color: #4c566a;
 }
