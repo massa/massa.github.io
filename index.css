@@ -16,6 +16,7 @@ blockquote {
 }
 
 header blockquote {
+  text-align: right;
   font-style: oblique;
 }
 
