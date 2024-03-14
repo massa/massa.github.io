@@ -16,8 +16,15 @@ blockquote {
 }
 
 header blockquote {
-  text-align: right;
   font-style: oblique;
+}
+
+header blockquote::before {
+  content: open-quote;
+}
+
+header blockquote::after {
+  content: close-quote;
 }
 
 header h1,
