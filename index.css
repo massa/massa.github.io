@@ -33,7 +33,7 @@ header .logo,
 header .statement {
   font-family: Rosie, "Helvetica Neue Light", "Helvetica Neue", "DejaVu Sans",
     "Bitstream Vera Sans", Helvetica, Arial, sans-serif;
-  font-size: 48pt;
+  font-size: clamp(12pt, 6vw, 96pt);
 }
 
 nav {
